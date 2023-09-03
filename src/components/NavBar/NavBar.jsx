@@ -3,7 +3,7 @@ import { GrFavorite } from 'react-icons/gr';
 
 const NavBar = () => {
     return (
-        <div className='h-6'>
+        <div className='h-6 mb-2'>
       <div className='flex justify-start'> 
       <div className="navbar bg-base-100 flex ">
        <div className="navbar-start">
